@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[I am Ben]]></title>
         <description><![CDATA[I am Ben]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/i-am-ben/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Aug 2016 18:44:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Aug 2016 18:47:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/i-am-ben/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I'm doing OK in classes except for Human Sexuality. It's a pretty interesting class but I've been having a hard time doing the assignments. I guess I'm used to talking about sex in a spontaneous, informal manner. What I'm supposed to do now is to write a diary for a week recording my thoughts about sex for the day. Not too bad, but at the end of the day, I couldn't possibly remember my thoughts. So I think I'll just write about my interactions with the opposite sex and what was on my mind — easier that way. It's gonna feel weird to hand it in to the teacher who happens to be the hottest I've ever had at Gallaudet. It sounds so stereotypical — the hot sex ed. teacher. It isn't a sex ed. class obviously — it covers a wide range of aspects of sexuality...biological, anthropological, sociological, psychological, etc. Learned some interesting stuff. The weirdest part had to be infant sexuality. Oh yeah, I'm the only straight guy in the class. Any question or comment about heterosexual males, all heads turn my way. I suppose more women take the course because they're more comfortable talking about personal lives to semi-strangers? All I know, I feel weird as hell turning in assignments about my sex life to that sultry imparter of knowledge.</p>]]></description>
+            <link>https://thegrid.ai/i-am-ben/im-doing-ok-in-classes-except-for-human-sexuality-its-a-p/index.html</link>
+            <guid isPermaLink="false">a4dab6bc-ef60-4889-8354-88974059ebf9</guid>
+            <pubDate>Mon, 15 Aug 2016 18:47:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>What a fun, beautiful and horrible weekend. There was a party at somebody's grandparents' house in Severna Park. It's by Chesapeake Bay and it couldn't be a better place for some Memorial Weekend fun.</p>]]></description>
-            <link>undefinedwhat-a-fun-beautiful-and-horrible-weekend-there-was-a-part/index.html</link>
+            <link>https://thegrid.ai/i-am-ben/what-a-fun-beautiful-and-horrible-weekend-there-was-a-part/index.html</link>
             <guid isPermaLink="false">16cde82a-534c-48f4-a5db-c91943917e13</guid>
             <pubDate>Mon, 15 Aug 2016 18:44:37 GMT</pubDate>
         </item>
