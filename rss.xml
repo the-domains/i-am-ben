@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[I am Ben]]></title>
+        <description><![CDATA[I am Ben]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Aug 2016 18:44:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>What a fun, beautiful and horrible weekend. There was a party at somebody's grandparents' house in Severna Park. It's by Chesapeake Bay and it couldn't be a better place for some Memorial Weekend fun.</p>]]></description>
+            <link>undefinedwhat-a-fun-beautiful-and-horrible-weekend-there-was-a-part/index.html</link>
+            <guid isPermaLink="false">16cde82a-534c-48f4-a5db-c91943917e13</guid>
+            <pubDate>Mon, 15 Aug 2016 18:44:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
